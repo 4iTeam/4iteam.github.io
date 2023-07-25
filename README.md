@@ -1,3 +1,3 @@
-# 4iteam.github.io
+# For IT Team
 
 * [TinyInstaller](https://4iteam.github.io/TinyInstaller)
